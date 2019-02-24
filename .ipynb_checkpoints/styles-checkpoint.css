@@ -1,0 +1,25 @@
+body {
+  background-color: lightgray;
+}
+
+ul.navbar-nav a:hover {
+  background-color: lightblue !important;
+}
+
+.navbar {
+  padding: 0.5rem 2rem;
+}
+
+.navbar-brand {
+  margin-left: 5rem;
+}
+
+h2 {
+  class: text-info;
+}
+
+.summaryImage {
+  width: 100%;
+  height: auto;
+}
+
